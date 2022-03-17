@@ -5,7 +5,7 @@ Windows application for Remoting.org
 
 # Installing
 **Downloads**
-Installer version: [remotingorgclientwindows Setup 1.0.0.exe](https://github.com/remotingorg/remoting.org-client-windows-desktop/releases/download/1.0.0/Remoting.org.Setup.1.0.0.exe)
+Installer version: [Remoting.org.Setup.1.0.0.exe](https://github.com/remotingorg/remoting.org-client-windows-desktop/releases/download/1.0.0/Remoting.org.Setup.1.0.0.exe)
 
 # Known Issues
 - Unable to create desktop screen recording due to a missing polyfill
